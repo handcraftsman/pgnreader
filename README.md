@@ -8,6 +8,10 @@ a chess PGN (Portable Game Notation) file reader (written in golang) (originally
 
 Normal go install... `go get github.com/handcraftsman/pgnreader`
 
+Test framework is https://github.com/go-check/check
+
+    go get gopkg.in/check.v1
+
 ## minimum viable snippet
 
 ```Go
